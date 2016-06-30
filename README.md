@@ -15,7 +15,7 @@ UTILIZAÇÃO:
 	Primeira utilização:
 	1. Crie os arquivos e pastas iniciais onde está localizado o programa, caso ainda não existam
 	2. Insira questões no formato uma por linha no arquivo "Exercicios.txt" dentro da pasta "res"
-	3. Preencha o arquivo "cabeçalho.txt" lembrando que o nome do aluno será inserido ao início do 	     texto do mesmo arquivo independente de seu conteúdo
+	3. Preencha o arquivo "cabeçalho.txt" lembrando que o nome do aluno será inserido ao início do texto do mesmo arquivo independente de seu conteúdo
 	4. Preencha da mesma forma o arquivo "rodapé.txt"
 	5. Execute o programa e insira o nome do aluno, depois cheque a lista gerada dentro da pasta "listas"
 	6. Caso algo tenha dado errado confira se os nomes estão corretos com o que foi citado a cima
@@ -24,7 +24,8 @@ UTILIZAÇÃO:
 	1. Efetue apenas o passo 5 a cima
 
 Obrigado!
-Desenvolvido por Daniel Aragão, caso seja necessário edição do código fonte entre em contato por e-mail, danielfilhoce@gmail.com
+Desenvolvido por Daniel Aragão.
+Caso seja necessário edição do código fonte entre em contato por e-mail, danielfilhoce@gmail.com
 
 O código é aberto e está disponível no GitHub: 
 https://github.com/Daniel-Aragao/Gerador-de-listas-Logica-Matematica.git
