@@ -27,3 +27,4 @@ Obrigado!
 Desenvolvido por Daniel Aragão, caso seja necessário edição do código fonte entre em contato por e-mail, danielfilhoce@gmail.com
 
 O código é aberto e está disponível no GitHub: 
+https://github.com/Daniel-Aragao/Gerador-de-listas-Logica-Matematica.git
