@@ -29,3 +29,8 @@ Caso seja necessário edição do código fonte entre em contato por e-mail, dan
 
 O código é aberto e está disponível no GitHub: 
 https://github.com/Daniel-Aragao/Gerador-de-listas-Logica-Matematica.git
+
+Atualização de versão 1.2
+	Agora o usuário poderá optar por selecionar "Nome" ou "Lista",
+		1. "Nome" - segue os mesmos procedimentos iniciais
+		2. "Lista" - exige que dentro da pasta "res" exista o arquivo "alunos.txt" para que o 			programa possa importar a lista de alunos no formato um nome por linha, para agilizar a 		criação de  listas para uma turma toda
