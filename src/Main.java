@@ -7,8 +7,22 @@ public class Main {
 
 
 	public static void main(String[] args) {
-		String nome = null;
-		nome = JOptionPane.showInputDialog("Nome: ");
+		String resp = (String) JOptionPane.showInputDialog(null, "Nome: ", "", JOptionPane.PLAIN_MESSAGE,
+				null, new Object[]{"Nome", "Lista"}, null);
+		
+		if(resp.equals("Nome")){
+			String nome = JOptionPane.showInputDialog("Nome: ");
+			gravarLista(nome);			
+		}else{
+			ArrayList<String> alunos = ImportFormulas.getAlunos("res/alunos.txt");
+			for(String aluno : alunos){
+				gravarLista(aluno);
+			}
+		}
+		
+	}
+	
+	private static void gravarLista(String nome){
 		if(nome != null){
 
 			int maxQuestoes = 10;
